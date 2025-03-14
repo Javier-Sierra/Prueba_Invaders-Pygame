@@ -1,7 +1,7 @@
 
 # Space Invaders con Pygame
 
-Este es un juego clásico de Space Invaders desarrollado en Python utilizando la biblioteca Pygame de manera simple. El jugador controla una nave espacial que debe eliminar a los alienígenas invasores antes de que lleguen a la parte inferior de la pantalla.
+Este es un juego basado en el clásico Space Invaders desarrollado en Python utilizando la biblioteca Pygame. El jugador controla una nave espacial que debe eliminar a los alienígenas invasores antes de que lleguen a la parte inferior de la pantalla.
 
 ## Características del Juego
 - Movimiento fluido de la nave con las teclas de dirección.
@@ -46,10 +46,7 @@ El juego cuenta con tres niveles de dificultad seleccionables desde el menú ini
 6. Si un enemigo toca la nave, el juego finaliza automáticamente.
 
 
-
-
 ## Autor
 Desarrollado por **Javier Andrés Sierra Pineda**.
 
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
+
