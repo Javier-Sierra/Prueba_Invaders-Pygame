@@ -168,7 +168,7 @@ while RUNNING:
                 enemy["y"] = random.randint(50, 150)
             draw_enemy(enemy)
         
-        # Aumentar la velocidad de los enemigos cada 10 puntos sin cerrar el juego
+        # Aumentar la velocidad de los enemigos cada 5 puntos 
         if score >= previous_score + 5:
             for enemy in enemies:
                 enemy["x_change"] *= 1.1
